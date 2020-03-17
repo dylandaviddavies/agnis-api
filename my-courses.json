@@ -1,0 +1,29 @@
+[
+    {
+        "rating": 3.5,
+        "title": "Introduction to ASP.NET",
+        "subtitle": "Learn ASP.NET, .NET Core, and SQL Server.", 
+        "id": "4", 
+        "oldPrice": "$29.99",
+        "price": "$19.99",
+        "img": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+    },
+    {
+        "rating": 4,
+        "title": "Learn Android Studio",
+        "subtitle": "Learn Android Studio in 10 easy steps.", 
+        "id": "6", 
+        "oldPrice": "$49.99",
+        "price": "$19.99",
+        "img": "https://images.unsplash.com/photo-1483478550801-ceba5fe50e8e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+    },
+    {
+        "rating": 4.5,
+        "title": "The Web Developer Bootcamp",
+        "subtitle": "From zero to hero.", 
+        "id": "8", 
+        "oldPrice": "$199.99",
+        "price": "$24.99",
+        "img": "https://images.unsplash.com/photo-1504384764586-bb4cdc1707b0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+    }
+]

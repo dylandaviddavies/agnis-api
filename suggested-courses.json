@@ -1,0 +1,28 @@
+[
+    {
+        "rating": 4.5,
+        "title": "Introduction to Python", 
+        "subtitle": "Learn Python like a Professional!", 
+        "id": "2",
+        "price": "$149.99", 
+        "img": "https://images.unsplash.com/photo-1579412690850-bd41cd0af397?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=701&q=80"
+    },
+    {
+        "rating": 4,
+        "title": "Selenium Testing",
+        "subtitle": "Over 30+ hours of content.", 
+        "id": "5", 
+        "oldPrice": "$49.99",
+        "price": "$19.99",
+        "img": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1002&q=80"
+    },
+    {
+        "rating": 4,
+        "title": "Programming in Swift",
+        "subtitle": "Acclaimed introductory course for Swift.", 
+        "id": "7", 
+        "oldPrice": "$49.99",
+        "price": "$19.99",
+        "img": "https://images.unsplash.com/photo-1483478550801-ceba5fe50e8e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+    }
+]
